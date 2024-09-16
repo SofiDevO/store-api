@@ -1,0 +1,26 @@
+[
+  {
+    "productID": 1,
+    "name": "Funko Sofi",
+    "price": 200,
+    "description": "Funko de Sofi",
+    "image": "https://itssofi.dev/img/img_blog/sofi_funko.webp",
+    "categoryID": 1
+  },
+  {
+    "productID": 2,
+    "name": "Funko Raziel",
+    "price": 300,
+    "description": "Funko de Raziel de Legacy of Kain Soul Reaver",
+    "image": "https://scontent.fmex23-1.fna.fbcdn.net/v/t39.30808-6/242599487_849654999029914_7493511494016853107_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=3a1ebe&_nc_ohc=qLgcAvDykzYQ7kNvgGhaFnP&_nc_ht=scontent.fmex23-1.fna&_nc_gid=AJSQrjOC7wJyoDgUXq9YGHt&oh=00_AYCWCqKGT1eQprqQY0w_IPv4hZrIzjID6IaXZHpvgDJ8AA&oe=66EAC2C2",
+    "categoryID": 1
+  },
+  {
+    "productID": 3,
+    "name": "Mascara Deadpool",
+    "price": 300,
+    "description": "Funko de Raziel de Legacy of Kain Soul Reaver",
+    "image": "https://scontent.fmex23-1.fna.fbcdn.net/v/t39.30808-6/242599487_849654999029914_7493511494016853107_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=3a1ebe&_nc_ohc=qLgcAvDykzYQ7kNvgGhaFnP&_nc_ht=scontent.fmex23-1.fna&_nc_gid=AJSQrjOC7wJyoDgUXq9YGHt&oh=00_AYCWCqKGT1eQprqQY0w_IPv4hZrIzjID6IaXZHpvgDJ8AA&oe=66EAC2C2",
+    "categoryID": 2
+  }
+]
